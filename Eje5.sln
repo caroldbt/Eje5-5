@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eje5", "Eje5\Eje5.csproj", "{EE2A57DD-D1FC-472E-9A14-F77E50CB8C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2A57DD-D1FC-472E-9A14-F77E50CB8C8E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EE2A57DD-D1FC-472E-9A14-F77E50CB8C8E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EE2A57DD-D1FC-472E-9A14-F77E50CB8C8E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EE2A57DD-D1FC-472E-9A14-F77E50CB8C8E}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {637E9C23-7406-404F-8C08-1A82C4D129FF}
+	EndGlobalSection
+EndGlobal
